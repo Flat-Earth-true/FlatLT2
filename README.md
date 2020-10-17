@@ -8,5 +8,5 @@
                                |_|                                               |___/                              </pre>
                         
  <h3>Changelogs: </h3>
- [*] Release
+ [*] Release<br>
  [*] Fix FlashLight Bug
